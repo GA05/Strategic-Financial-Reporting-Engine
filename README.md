@@ -162,7 +162,7 @@ You're at the final step!
 
 ---
 
-## 3. Technical Deep Dive (For Interviews)
+## 3. Technical Deep Dive 
 
 This section explains the technical architecture and design choices, preparing you to answer any related questions.
 
