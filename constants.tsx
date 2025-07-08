@@ -1,0 +1,4 @@
+export const SUPABASE_URL = "https://rtmqmgeylzmvemjkwzoy.supabase.co";
+export const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ0bXFtZ2V5bHptdmVtamt3em95Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE5NjYwNzUsImV4cCI6MjA2NzU0MjA3NX0.eqwPUw9vTbsFlf2TCDJwAPELymGe3qJjB2PGadyQ8I8";
+
+export const FINANCIAL_TABLE_NAME = 'financial_data';

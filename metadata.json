@@ -1,0 +1,5 @@
+{
+  "name": "Vibrant Financial Dashboard",
+  "description": "An AI-powered dashboard for business intelligence with a fun, rainbow theme. Users can input financial data into a Supabase database, visualize KPIs and time-series data, and leverage Gemini for forecasting and reporting.",
+  "requestFramePermissions": []
+}
