@@ -1,8 +1,6 @@
 
 # Vibrant Financial Dashboard: An AI-Powered BI Tool
 
-![Vibrant Financial Dashboard UI](https://storage.googleapis.com/proudcity/me/dashboard-examples/examples/vibrant-financial-dashboard.png)
-
 ## 1. Introduction & Use Cases
 
 The Vibrant Financial Dashboard is a modern, web-based business intelligence tool that transforms raw financial data into actionable insights. It combines a user-friendly data entry system with powerful data visualizations and cutting-edge AI analysis from Google's Gemini API.
